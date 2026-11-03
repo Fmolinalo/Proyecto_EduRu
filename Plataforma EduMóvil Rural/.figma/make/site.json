@@ -1,0 +1,10 @@
+{
+  "description": "Gestiona un programa educativo itinerante para comunidades rurales, coordinando visitas, talleres, recursos, equipos y beneficiarios sin depender de internet.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
